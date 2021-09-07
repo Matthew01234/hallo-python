@@ -1,0 +1,3 @@
+https://hackr.io/blog/python-projects
+--
+Dit inspireert mij omdat je met de geprogrammeerde tekst eigenlijk gewoon een spelletje maakt wat veel groter / complexer over komt dan de code
